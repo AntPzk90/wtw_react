@@ -1,0 +1,16 @@
+{
+  // Prettier formats files on save
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+
+  // On save, ESLint and Stylelint also apply their auto-fixes
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit",
+    "source.fixAll.stylelint": "explicit"
+  },
+
+  // The built-in CSS validator would duplicate Stylelint's warnings
+  "css.validate": false,
+
+  "typescript.preferences.importModuleSpecifier": "non-relative"
+}

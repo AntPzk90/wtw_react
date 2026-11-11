@@ -1,0 +1,24 @@
+/*
+  sonner paints a toast with var(--normal-bg/-border/-text), which the toaster sets
+  for its theme. Setting them on the toast itself wins over the inherited values,
+  so there is no need to fight the specificity of [data-sonner-toast] selectors.
+*/
+.toast {
+  --normal-bg: #180202;
+  --normal-border: #c9b37e;
+  --normal-text: #dfcf77;
+
+  font-family: inherit;
+}
+
+.toast--success {
+  --normal-bg: #0f2a16;
+  --normal-border: #3f9a55;
+  --normal-text: #a8e0b4;
+}
+
+.toast--error {
+  --normal-bg: #3a0b0b;
+  --normal-border: #d0453f;
+  --normal-text: #f5aaa6;
+}

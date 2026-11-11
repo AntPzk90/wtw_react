@@ -1,0 +1,799 @@
+{
+  "films": [
+    {
+      "id": 1,
+      "name": "The Grand Budapest Hotel",
+      "posterImage": "https://upload.wikimedia.org/wikipedia/en/1/1c/The_Grand_Budapest_Hotel.png",
+      "previewImage": "img/bg-the-grand-budapest-hotel.jpg",
+      "backgroundImage": "img/bg-the-grand-budapest-hotel.jpg",
+      "videoLink": "https://download.blender.org/durian/trailer/sintel_trailer-480p.mp4",
+      "description": "In the 1930s, the Grand Budapest Hotel is a popular European ski resort, presided over by concierge Gustave H. (Ralph Fiennes). Zero, a junior lobby boy, becomes Gustave's friend and protege. Gustave prides himself on providing first-class service to the hotel's guests, including satisfying the sexual needs of the many elderly women who stay there. When one of Gustave's lovers dies mysteriously, Gustave finds himself the recipient of a priceless painting and the chief suspect in her murder.",
+      "rating": 8.9,
+      "scoresCount": 240,
+      "director": "Wes Anderson",
+      "starring": [
+        "Bill Murray",
+        "Edward Norton",
+        "Jude Law",
+        "Willem Dafoe",
+        "Saoirse Ronan",
+        "Tony Revolori",
+        "Tilda Swinton",
+        "Tom Wilkinson",
+        "Owen Wilson",
+        "Adrien Brody",
+        "Ralph Fiennes",
+        "Jeff Goldblum"
+      ],
+      "runTime": 99,
+      "genre": "Drama",
+      "released": 2014
+    },
+    {
+      "id": 2,
+      "name": "Fantastic Beasts: The Crimes of Grindelwald",
+      "posterImage": "https://upload.wikimedia.org/wikipedia/en/3/3c/Fantastic_Beasts_-_The_Crimes_of_Grindelwald_Poster.png",
+      "previewImage": "img/fantastic-beasts-the-crimes-of-grindelwald.jpg",
+      "backgroundImage": "img/fantastic-beasts-the-crimes-of-grindelwald.jpg",
+      "videoLink": "https://download.blender.org/durian/trailer/sintel_trailer-480p.mp4",
+      "description": "Gellert Grindelwald escapes custody and sets out to gather followers for his cause. Albus Dumbledore enlists his former student Newt Scamander to stop him, a mission that tests loyalties and friendships across the wizarding world.",
+      "rating": 6.6,
+      "scoresCount": 512,
+      "director": "David Yates",
+      "starring": [
+        "Eddie Redmayne",
+        "Katherine Waterston",
+        "Dan Fogler",
+        "Johnny Depp",
+        "Jude Law"
+      ],
+      "runTime": 134,
+      "genre": "Kids & Family",
+      "released": 2018
+    },
+    {
+      "id": 3,
+      "name": "Bohemian Rhapsody",
+      "posterImage": "https://upload.wikimedia.org/wikipedia/en/2/2e/Bohemian_Rhapsody_poster.png",
+      "previewImage": "img/bohemian-rhapsody.jpg",
+      "backgroundImage": "img/bohemian-rhapsody.jpg",
+      "videoLink": "https://download.blender.org/durian/trailer/sintel_trailer-480p.mp4",
+      "description": "The story of the legendary rock band Queen and lead singer Freddie Mercury, from the formation of the band in 1970 to their triumphant performance at Live Aid in 1985.",
+      "rating": 7.9,
+      "scoresCount": 834,
+      "director": "Bryan Singer",
+      "starring": [
+        "Rami Malek",
+        "Lucy Boynton",
+        "Gwilym Lee",
+        "Ben Hardy",
+        "Joseph Mazzello"
+      ],
+      "runTime": 134,
+      "genre": "Drama",
+      "released": 2018
+    },
+    {
+      "id": 4,
+      "name": "Macbeth",
+      "posterImage": "https://upload.wikimedia.org/wikipedia/en/7/79/Macbeth_2015_poster.jpg",
+      "previewImage": "img/macbeth.jpg",
+      "backgroundImage": "img/macbeth.jpg",
+      "videoLink": "https://download.blender.org/durian/trailer/sintel_trailer-480p.mp4",
+      "description": "A Scottish general receives a prophecy from three witches that he will one day become King of Scotland. Consumed by ambition and spurred to action by his wife, Macbeth murders his king and takes the throne for himself.",
+      "rating": 6.6,
+      "scoresCount": 157,
+      "director": "Justin Kurzel",
+      "starring": [
+        "Michael Fassbender",
+        "Marion Cotillard",
+        "Jack Madigan"
+      ],
+      "runTime": 113,
+      "genre": "Drama",
+      "released": 2015
+    },
+    {
+      "id": 5,
+      "name": "Aviator",
+      "posterImage": "https://upload.wikimedia.org/wikipedia/en/f/fa/The_Aviator_%282004%29.png",
+      "previewImage": "img/aviator.jpg",
+      "backgroundImage": "img/aviator.jpg",
+      "videoLink": "https://download.blender.org/durian/trailer/sintel_trailer-480p.mp4",
+      "description": "A biopic depicting the early years of legendary director and aviator Howard Hughes, from the late 1920s to the mid 1940s, as he becomes one of the richest men in the world while suffering from severe obsessive-compulsive disorder.",
+      "rating": 7.5,
+      "scoresCount": 368,
+      "director": "Martin Scorsese",
+      "starring": [
+        "Leonardo DiCaprio",
+        "Cate Blanchett",
+        "Kate Beckinsale"
+      ],
+      "runTime": 170,
+      "genre": "Drama",
+      "released": 2004
+    },
+    {
+      "id": 6,
+      "name": "We need to talk about Kevin",
+      "posterImage": "https://upload.wikimedia.org/wikipedia/ru/7/79/%D0%9F%D0%BE%D1%81%D1%82%D0%B5%D1%80_%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D0%B0_%C2%AB%D0%A7%D1%82%D0%BE-%D1%82%D0%BE_%D0%BD%D0%B5_%D1%82%D0%B0%D0%BA_%D1%81_%D0%9A%D0%B5%D0%B2%D0%B8%D0%BD%D0%BE%D0%BC%C2%BB.jpg",
+      "previewImage": "img/we-need-to-talk-about-kevin.jpg",
+      "backgroundImage": "img/we-need-to-talk-about-kevin.jpg",
+      "videoLink": "https://download.blender.org/durian/trailer/sintel_trailer-480p.mp4",
+      "description": "Kevin's mother struggles to love her strange child, despite the increasingly dangerous things he says and does as he grows up. But Kevin is just getting started, and his final act will be beyond anything anyone imagined.",
+      "rating": 7.5,
+      "scoresCount": 143,
+      "director": "Lynne Ramsay",
+      "starring": [
+        "Tilda Swinton",
+        "John C. Reilly",
+        "Ezra Miller"
+      ],
+      "runTime": 112,
+      "genre": "Thriller",
+      "released": 2011
+    },
+    {
+      "id": 7,
+      "name": "What We Do in the Shadows",
+      "posterImage": "https://upload.wikimedia.org/wikipedia/en/7/70/What_We_Do_in_the_Shadows_poster.jpg",
+      "previewImage": "img/what-we-do-in-the-shadows.jpg",
+      "backgroundImage": "img/what-we-do-in-the-shadows.jpg",
+      "videoLink": "https://download.blender.org/durian/trailer/sintel_trailer-480p.mp4",
+      "description": "Viago, Deacon and Vladislav are vampires who are struggling with the mundane aspects of modern life, like paying rent, keeping up with the cleaning chores and getting into nightclubs.",
+      "rating": 7.7,
+      "scoresCount": 296,
+      "director": "Jemaine Clement, Taika Waititi",
+      "starring": [
+        "Jemaine Clement",
+        "Taika Waititi",
+        "Jonathan Brugh"
+      ],
+      "runTime": 86,
+      "genre": "Comedy",
+      "released": 2014
+    },
+    {
+      "id": 8,
+      "name": "Revenant",
+      "posterImage": "https://upload.wikimedia.org/wikipedia/en/b/b6/The_Revenant_2015_film_poster.jpg",
+      "previewImage": "img/revenant.jpg",
+      "backgroundImage": "img/revenant.jpg",
+      "videoLink": "https://download.blender.org/durian/trailer/sintel_trailer-480p.mp4",
+      "description": "A frontiersman on a fur trading expedition in the 1820s fights for survival after being mauled by a bear and left for dead by members of his own hunting team.",
+      "rating": 8,
+      "scoresCount": 621,
+      "director": "Alejandro G. Iñárritu",
+      "starring": [
+        "Leonardo DiCaprio",
+        "Tom Hardy",
+        "Will Poulter"
+      ],
+      "runTime": 156,
+      "genre": "Drama",
+      "released": 2015
+    },
+    {
+      "id": 9,
+      "name": "Johnny English",
+      "posterImage": "https://upload.wikimedia.org/wikipedia/ru/4/49/Johnny_English_poster.jpg",
+      "previewImage": "img/johnny-english.jpg",
+      "backgroundImage": "img/johnny-english.jpg",
+      "videoLink": "https://download.blender.org/durian/trailer/sintel_trailer-480p.mp4",
+      "description": "After a sudden attack on MI5, Johnny English, Britain's most confident yet unintelligent spy, becomes Britain's only spy and must stop a plot to steal the Crown Jewels.",
+      "rating": 6.2,
+      "scoresCount": 207,
+      "director": "Peter Howitt",
+      "starring": [
+        "Rowan Atkinson",
+        "John Malkovich",
+        "Natalie Imbruglia"
+      ],
+      "runTime": 88,
+      "genre": "Comedy",
+      "released": 2003
+    },
+    {
+      "id": 10,
+      "name": "Shutter Island",
+      "posterImage": "https://upload.wikimedia.org/wikipedia/en/7/76/Shutterislandposter.jpg",
+      "previewImage": "img/shutter-island.jpg",
+      "backgroundImage": "img/shutter-island.jpg",
+      "videoLink": "https://download.blender.org/durian/trailer/sintel_trailer-480p.mp4",
+      "description": "In 1954, a U.S. Marshal investigates the disappearance of a murderer who escaped from a hospital for the criminally insane on a remote island.",
+      "rating": 8.2,
+      "scoresCount": 704,
+      "director": "Martin Scorsese",
+      "starring": [
+        "Leonardo DiCaprio",
+        "Emily Mortimer",
+        "Mark Ruffalo"
+      ],
+      "runTime": 138,
+      "genre": "Thriller",
+      "released": 2010
+    },
+    {
+      "id": 11,
+      "name": "Pulp Fiction",
+      "posterImage": "https://upload.wikimedia.org/wikipedia/en/3/3b/Pulp_Fiction_%281994%29_poster.jpg",
+      "previewImage": "img/pulp-fiction.jpg",
+      "backgroundImage": "img/pulp-fiction.jpg",
+      "videoLink": "https://download.blender.org/durian/trailer/sintel_trailer-480p.mp4",
+      "description": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+      "rating": 8.9,
+      "scoresCount": 1532,
+      "director": "Quentin Tarantino",
+      "starring": [
+        "John Travolta",
+        "Uma Thurman",
+        "Samuel L. Jackson"
+      ],
+      "runTime": 154,
+      "genre": "Crime",
+      "released": 1994
+    },
+    {
+      "id": 12,
+      "name": "No Country for Old Men",
+      "posterImage": "https://upload.wikimedia.org/wikipedia/en/8/8b/No_Country_for_Old_Men_poster.jpg",
+      "previewImage": "img/no-country-for-old-men.jpg",
+      "backgroundImage": "img/no-country-for-old-men.jpg",
+      "videoLink": "https://download.blender.org/durian/trailer/sintel_trailer-480p.mp4",
+      "description": "Violence and mayhem ensue after a hunter stumbles upon a drug deal gone wrong and more than two million dollars in cash near the Rio Grande.",
+      "rating": 8.2,
+      "scoresCount": 589,
+      "director": "Ethan Coen, Joel Coen",
+      "starring": [
+        "Tommy Lee Jones",
+        "Javier Bardem",
+        "Josh Brolin"
+      ],
+      "runTime": 122,
+      "genre": "Crime",
+      "released": 2007
+    },
+    {
+      "id": 13,
+      "name": "Snatch",
+      "posterImage": "https://upload.wikimedia.org/wikipedia/ru/b/b1/Snatch_Movie_Poster.jpg",
+      "previewImage": "img/snatch.jpg",
+      "backgroundImage": "img/snatch.jpg",
+      "videoLink": "https://download.blender.org/durian/trailer/sintel_trailer-480p.mp4",
+      "description": "Unscrupulous boxing promoters, violent bookmakers, a Russian gangster, incompetent amateur robbers and supposedly Jewish jewelers fight to track down a priceless stolen diamond.",
+      "rating": 8.2,
+      "scoresCount": 873,
+      "director": "Guy Ritchie",
+      "starring": [
+        "Jason Statham",
+        "Brad Pitt",
+        "Benicio Del Toro"
+      ],
+      "runTime": 104,
+      "genre": "Crime",
+      "released": 2000
+    },
+    {
+      "id": 14,
+      "name": "Moonrise Kingdom",
+      "posterImage": "https://upload.wikimedia.org/wikipedia/en/4/4f/Moonrise_Kingdom_FilmPoster.jpeg",
+      "previewImage": "img/moonrise-kingdom.jpg",
+      "backgroundImage": "img/moonrise-kingdom.jpg",
+      "videoLink": "https://download.blender.org/durian/trailer/sintel_trailer-480p.mp4",
+      "description": "A pair of young lovers flee their New England town, which causes a local search party to fan out to find them.",
+      "rating": 7.8,
+      "scoresCount": 318,
+      "director": "Wes Anderson",
+      "starring": [
+        "Jared Gilman",
+        "Kara Hayward",
+        "Bruce Willis",
+        "Bill Murray"
+      ],
+      "runTime": 94,
+      "genre": "Romance",
+      "released": 2012
+    },
+    {
+      "id": 15,
+      "name": "Seven Years in Tibet",
+      "posterImage": "https://upload.wikimedia.org/wikipedia/en/9/97/Seven_Years_in_Tibet_cover.jpeg",
+      "previewImage": "img/seven-years-in-tibet.jpg",
+      "backgroundImage": "img/seven-years-in-tibet.jpg",
+      "videoLink": "https://download.blender.org/durian/trailer/sintel_trailer-480p.mp4",
+      "description": "True story of Heinrich Harrer, an Austrian mountain climber who became friends with the Dalai Lama at the time of China's takeover of Tibet.",
+      "rating": 7.1,
+      "scoresCount": 264,
+      "director": "Jean-Jacques Annaud",
+      "starring": [
+        "Brad Pitt",
+        "David Thewlis",
+        "BD Wong"
+      ],
+      "runTime": 136,
+      "genre": "Drama",
+      "released": 1997
+    },
+    {
+      "id": 16,
+      "name": "Midnight Special",
+      "posterImage": "https://upload.wikimedia.org/wikipedia/en/b/b7/Midnight_Special_%28film%29_poster.jpg",
+      "previewImage": "img/midnight-special.jpg",
+      "backgroundImage": "img/midnight-special.jpg",
+      "videoLink": "https://download.blender.org/durian/trailer/sintel_trailer-480p.mp4",
+      "description": "A father and son go on the run after the dad learns his child possesses special powers.",
+      "rating": 6.6,
+      "scoresCount": 131,
+      "director": "Jeff Nichols",
+      "starring": [
+        "Michael Shannon",
+        "Joel Edgerton",
+        "Kirsten Dunst"
+      ],
+      "runTime": 112,
+      "genre": "Sci-Fi",
+      "released": 2016
+    },
+    {
+      "id": 17,
+      "name": "War of the Worlds",
+      "posterImage": "https://upload.wikimedia.org/wikipedia/en/8/83/War_of_the_Worlds_2005_poster.jpg",
+      "previewImage": "img/war-of-the-worlds.jpg",
+      "backgroundImage": "img/war-of-the-worlds.jpg",
+      "videoLink": "https://download.blender.org/durian/trailer/sintel_trailer-480p.mp4",
+      "description": "As Earth is invaded by alien tripod fighting machines, one family fights for survival in this sci-fi action film.",
+      "rating": 6.5,
+      "scoresCount": 455,
+      "director": "Steven Spielberg",
+      "starring": [
+        "Tom Cruise",
+        "Dakota Fanning",
+        "Tim Robbins"
+      ],
+      "runTime": 116,
+      "genre": "Sci-Fi",
+      "released": 2005
+    },
+    {
+      "id": 18,
+      "name": "The Darjeeling Limited",
+      "posterImage": "https://upload.wikimedia.org/wikipedia/en/1/1e/Darjeeling_Limited_Poster.jpg",
+      "previewImage": "img/dardjeeling-limited.jpg",
+      "backgroundImage": "img/dardjeeling-limited.jpg",
+      "videoLink": "https://download.blender.org/durian/trailer/sintel_trailer-480p.mp4",
+      "description": "A year after their father's funeral, three brothers travel across India by train in an attempt to bond with each other.",
+      "rating": 7.2,
+      "scoresCount": 189,
+      "director": "Wes Anderson",
+      "starring": [
+        "Owen Wilson",
+        "Adrien Brody",
+        "Jason Schwartzman"
+      ],
+      "runTime": 91,
+      "genre": "Comedy",
+      "released": 2007
+    },
+    {
+      "id": 19,
+      "name": "Orlando",
+      "posterImage": "https://upload.wikimedia.org/wikipedia/ru/f/f9/Orlando_film_poster.jpg",
+      "previewImage": "img/orlando.jpg",
+      "backgroundImage": "img/orlando.jpg",
+      "videoLink": "https://download.blender.org/durian/trailer/sintel_trailer-480p.mp4",
+      "description": "After Queen Elizabeth I commands him not to grow old, a young nobleman struggles with love and his place in the world in a journey across four centuries.",
+      "rating": 7.1,
+      "scoresCount": 98,
+      "director": "Sally Potter",
+      "starring": [
+        "Tilda Swinton",
+        "Billy Zane",
+        "Quentin Crisp"
+      ],
+      "runTime": 94,
+      "genre": "Romance",
+      "released": 1992
+    },
+    {
+      "id": 20,
+      "name": "Mindhunter",
+      "posterImage": "img/mindhunter.jpg",
+      "previewImage": "img/mindhunter.jpg",
+      "backgroundImage": "img/mindhunter.jpg",
+      "videoLink": "https://download.blender.org/durian/trailer/sintel_trailer-480p.mp4",
+      "description": "In the late 1970s, two FBI agents broaden the realm of criminal science by investigating the psychology of murder and easing into the darkness of serial killers.",
+      "rating": 8.6,
+      "scoresCount": 402,
+      "director": "David Fincher",
+      "starring": [
+        "Jonathan Groff",
+        "Holt McCallany",
+        "Anna Torv"
+      ],
+      "runTime": 60,
+      "genre": "Thriller",
+      "released": 2017
+    },
+    {
+      "id": 21,
+      "name": "Free Solo",
+      "posterImage": "https://upload.wikimedia.org/wikipedia/en/9/9c/Free_Solo.png",
+      "previewImage": "https://upload.wikimedia.org/wikipedia/en/9/9c/Free_Solo.png",
+      "backgroundImage": "https://upload.wikimedia.org/wikipedia/en/9/9c/Free_Solo.png",
+      "videoLink": "https://download.blender.org/durian/trailer/sintel_trailer-480p.mp4",
+      "description": "Alex Honnold prepares to achieve his lifelong dream: climbing the 3,000-foot face of El Capitan in Yosemite National Park without a rope.",
+      "rating": 8.1,
+      "scoresCount": 214,
+      "director": "Jimmy Chin, Elizabeth Chai Vasarhelyi",
+      "starring": [
+        "Alex Honnold",
+        "Tommy Caldwell",
+        "Jimmy Chin"
+      ],
+      "runTime": 100,
+      "genre": "Documentary",
+      "released": 2018
+    },
+    {
+      "id": 22,
+      "name": "Jiro Dreams of Sushi",
+      "posterImage": "https://upload.wikimedia.org/wikipedia/en/4/47/Jiro_sushi_poster.jpg",
+      "previewImage": "https://upload.wikimedia.org/wikipedia/en/4/47/Jiro_sushi_poster.jpg",
+      "backgroundImage": "https://upload.wikimedia.org/wikipedia/en/4/47/Jiro_sushi_poster.jpg",
+      "videoLink": "https://download.blender.org/durian/trailer/sintel_trailer-480p.mp4",
+      "description": "A portrait of 85-year-old sushi master Jiro Ono, his renowned ten-seat Tokyo restaurant, and his relationship with his son and eventual heir, Yoshikazu.",
+      "rating": 7.9,
+      "scoresCount": 167,
+      "director": "David Gelb",
+      "starring": [
+        "Jiro Ono",
+        "Yoshikazu Ono",
+        "Masuhiro Yamamoto"
+      ],
+      "runTime": 81,
+      "genre": "Documentary",
+      "released": 2011
+    },
+    {
+      "id": 23,
+      "name": "Senna",
+      "posterImage": "https://upload.wikimedia.org/wikipedia/en/8/89/Senna_film_poster.jpg",
+      "previewImage": "https://upload.wikimedia.org/wikipedia/en/8/89/Senna_film_poster.jpg",
+      "backgroundImage": "https://upload.wikimedia.org/wikipedia/en/8/89/Senna_film_poster.jpg",
+      "videoLink": "https://download.blender.org/durian/trailer/sintel_trailer-480p.mp4",
+      "description": "Built entirely from archive footage, the story of Brazilian racing driver Ayrton Senna, who won the Formula One world championship three times before his death at 34.",
+      "rating": 8.5,
+      "scoresCount": 233,
+      "director": "Asif Kapadia",
+      "starring": [
+        "Ayrton Senna",
+        "Alain Prost",
+        "Frank Williams"
+      ],
+      "runTime": 106,
+      "genre": "Documentary",
+      "released": 2010
+    },
+    {
+      "id": 24,
+      "name": "The Shining",
+      "posterImage": "https://upload.wikimedia.org/wikipedia/en/1/1d/The_Shining_%281980%29_U.K._release_poster_-_The_tide_of_terror_that_swept_America_IS_HERE.jpg",
+      "previewImage": "https://upload.wikimedia.org/wikipedia/en/1/1d/The_Shining_%281980%29_U.K._release_poster_-_The_tide_of_terror_that_swept_America_IS_HERE.jpg",
+      "backgroundImage": "https://upload.wikimedia.org/wikipedia/en/1/1d/The_Shining_%281980%29_U.K._release_poster_-_The_tide_of_terror_that_swept_America_IS_HERE.jpg",
+      "videoLink": "https://download.blender.org/durian/trailer/sintel_trailer-480p.mp4",
+      "description": "A family heads to an isolated hotel for the winter, where a sinister presence influences the father into violence while his psychic son sees horrific visions of the past and future.",
+      "rating": 8.4,
+      "scoresCount": 1187,
+      "director": "Stanley Kubrick",
+      "starring": [
+        "Jack Nicholson",
+        "Shelley Duvall",
+        "Danny Lloyd"
+      ],
+      "runTime": 146,
+      "genre": "Horror",
+      "released": 1980
+    },
+    {
+      "id": 25,
+      "name": "Hereditary",
+      "posterImage": "https://upload.wikimedia.org/wikipedia/en/d/d9/Hereditary.png",
+      "previewImage": "https://upload.wikimedia.org/wikipedia/en/d/d9/Hereditary.png",
+      "backgroundImage": "https://upload.wikimedia.org/wikipedia/en/d/d9/Hereditary.png",
+      "videoLink": "https://download.blender.org/durian/trailer/sintel_trailer-480p.mp4",
+      "description": "After the death of their secretive grandmother, the Graham family is haunted by tragic and increasingly disturbing occurrences as they unravel the dark secrets of their ancestry.",
+      "rating": 7.3,
+      "scoresCount": 356,
+      "director": "Ari Aster",
+      "starring": [
+        "Toni Collette",
+        "Alex Wolff",
+        "Milly Shapiro",
+        "Gabriel Byrne"
+      ],
+      "runTime": 127,
+      "genre": "Horror",
+      "released": 2018
+    },
+    {
+      "id": 26,
+      "name": "Get Out",
+      "posterImage": "https://upload.wikimedia.org/wikipedia/en/a/a3/Get_Out_poster.png",
+      "previewImage": "https://upload.wikimedia.org/wikipedia/en/a/a3/Get_Out_poster.png",
+      "backgroundImage": "https://upload.wikimedia.org/wikipedia/en/a/a3/Get_Out_poster.png",
+      "videoLink": "https://download.blender.org/durian/trailer/sintel_trailer-480p.mp4",
+      "description": "A young Black man visits his white girlfriend's parents for the weekend, where his uneasiness about their overly accommodating behavior slowly turns into something far more sinister.",
+      "rating": 7.8,
+      "scoresCount": 642,
+      "director": "Jordan Peele",
+      "starring": [
+        "Daniel Kaluuya",
+        "Allison Williams",
+        "Bradley Whitford",
+        "Catherine Keener"
+      ],
+      "runTime": 104,
+      "genre": "Horror",
+      "released": 2017
+    }
+  ],
+  "promo": {
+    "filmId": 1
+  },
+  "comments": [
+    {
+      "id": 1,
+      "filmId": 1,
+      "user": {
+        "id": 100,
+        "name": "Kate Muir"
+      },
+      "comment": "Discerning travellers and Wes Anderson fans will luxuriate in the glorious Mittel-European kitsch of one of the director's funniest and most exquisitely designed movies in years.",
+      "rating": 5,
+      "date": "2016-12-24T12:00:00.000Z"
+    },
+    {
+      "id": 2,
+      "filmId": 1,
+      "user": {
+        "id": 101,
+        "name": "Bill Goodykoontz"
+      },
+      "comment": "Anderson's films are too precious for some, but for those of us willing to lose ourselves in them, they're a delight. \"The Grand Budapest Hotel\" is no different, except that he has added a hint of gravitas to the mix, improving the recipe.",
+      "rating": 4,
+      "date": "2015-11-18T12:00:00.000Z"
+    },
+    {
+      "id": 3,
+      "filmId": 1,
+      "user": {
+        "id": 102,
+        "name": "Amanda Greever"
+      },
+      "comment": "I didn't find it amusing, and while I can appreciate the creativity, it's an hour and 40 minutes I wish I could take back.",
+      "rating": 2,
+      "date": "2015-11-18T12:00:00.000Z"
+    },
+    {
+      "id": 4,
+      "filmId": 1,
+      "user": {
+        "id": 103,
+        "name": "Matthew Lickona"
+      },
+      "comment": "The mannered, madcap proceedings are often delightful, occasionally silly, and here and there, gruesome and/or heartbreaking.",
+      "rating": 4,
+      "date": "2016-12-20T12:00:00.000Z"
+    },
+    {
+      "id": 5,
+      "filmId": 1,
+      "user": {
+        "id": 104,
+        "name": "Paula Fleri-Soler"
+      },
+      "comment": "It is certainly a magical and childlike way of storytelling, even if the content is a little more adult.",
+      "rating": 4,
+      "date": "2016-12-20T12:00:00.000Z"
+    },
+    {
+      "id": 6,
+      "filmId": 2,
+      "user": {
+        "id": 1,
+        "name": "antpzk7"
+      },
+      "comment": "some terdjshdgd kjhsdfn lksdhfhjdj kdjfslkdjfj kdjflskd",
+      "rating": 4,
+      "date": "2026-10-26T12:17:42.805Z"
+    },
+    {
+      "id": 7,
+      "filmId": 2,
+      "user": {
+        "id": 4,
+        "name": "asd"
+      },
+      "comment": "SOME REVIEW TEXT LONG TEXT ASD DOMDKL KJDFM DSSDDFFD",
+      "rating": 2,
+      "date": "2026-10-26T12:19:03.142Z"
+    },
+    {
+      "id": 8,
+      "filmId": 3,
+      "user": {
+        "id": 4,
+        "name": "asd"
+      },
+      "comment": "The story of the legendary rock band Queen and lead singer Freddie Mercury, from the formation of the band in 1970 to their triumphant performance at Live Aid in 1985.",
+      "rating": 4,
+      "date": "2026-10-26T12:24:22.142Z"
+    },
+    {
+      "id": 9,
+      "filmId": 1,
+      "user": {
+        "id": 4,
+        "name": "asd"
+      },
+      "comment": "industry. Lorem Ipsum has been the industry's standard dummy text ever since 1966, when designers at Letraset and James Mosley, the librarian at St Bride Printing Library in London, took a 1914 Cicero translation and",
+      "rating": 4,
+      "date": "2026-10-26T14:42:57.468Z"
+    },
+    {
+      "id": 10,
+      "filmId": 3,
+      "user": {
+        "id": 1,
+        "name": "antpzk7"
+      },
+      "comment": "some test comment",
+      "rating": 3,
+      "date": "2026-11-05T16:12:17.711Z"
+    },
+    {
+      "id": 11,
+      "filmId": 3,
+      "user": {
+        "id": 1,
+        "name": "antpzk7"
+      },
+      "comment": "some text test",
+      "rating": 3,
+      "date": "2026-11-05T16:17:43.003Z"
+    },
+    {
+      "id": 12,
+      "filmId": 23,
+      "user": {
+        "id": 1,
+        "name": "antpzk7"
+      },
+      "comment": "Bash Verify both fixes,",
+      "rating": 5,
+      "date": "2026-11-06T14:41:58.011Z"
+    }
+  ],
+  "users": [
+    {
+      "avatarUrl": "img/avatar.jpg",
+      "email": "antpzk7@gmail.com",
+      "id": 1,
+      "name": "antpzk7",
+      "token": "YW50cHprN0BnbWFpbC5jb20="
+    },
+    {
+      "avatarUrl": "img/avatar.jpg",
+      "email": "sdf@gmail.com",
+      "id": 2,
+      "name": "sdf",
+      "token": "c2RmQGdtYWlsLmNvbQ=="
+    },
+    {
+      "avatarUrl": "img/avatar.jpg",
+      "email": "asd@f,as.sdd",
+      "id": 3,
+      "name": "asd",
+      "token": "YXNkQGYsYXMuc2Rk"
+    },
+    {
+      "avatarUrl": "img/avatar.jpg",
+      "email": "asd@gmail.com",
+      "id": 4,
+      "name": "asd",
+      "token": "YXNkQGdtYWlsLmNvbQ=="
+    },
+    {
+      "avatarUrl": "img/avatar.jpg",
+      "email": "asd@mail.com",
+      "id": 5,
+      "name": "asd",
+      "token": "YXNkQG1haWwuY29t"
+    },
+    {
+      "avatarUrl": "img/avatar.jpg",
+      "email": "Asd2@gmail.com",
+      "id": 6,
+      "name": "Asd2",
+      "token": "QXNkMkBnbWFpbC5jb20="
+    },
+    {
+      "avatarUrl": "img/avatar.jpg",
+      "email": "asd@gmail.vom",
+      "id": 7,
+      "name": "asd",
+      "token": "YXNkQGdtYWlsLnZvbQ=="
+    },
+    {
+      "avatarUrl": "img/avatar.jpg",
+      "email": "asd@sad.mss",
+      "id": 8,
+      "name": "asd",
+      "token": "YXNkQHNhZC5tc3M="
+    },
+    {
+      "avatarUrl": "img/avatar.jpg",
+      "email": "a@b.c",
+      "id": 9,
+      "name": "a",
+      "token": "YUBiLmM="
+    },
+    {
+      "avatarUrl": "img/avatar.jpg",
+      "email": "test@test.com",
+      "id": 10,
+      "name": "test",
+      "token": "dGVzdEB0ZXN0LmNvbQ=="
+    }
+  ],
+  "favorites": [
+    {
+      "email": "antpzk7@gmail.com",
+      "filmId": 6
+    },
+    {
+      "email": "antpzk7@gmail.com",
+      "filmId": 7
+    },
+    {
+      "email": "antpzk7@gmail.com",
+      "filmId": 8
+    },
+    {
+      "email": "antpzk7@gmail.com",
+      "filmId": 9
+    },
+    {
+      "email": "antpzk7@gmail.com",
+      "filmId": 10
+    },
+    {
+      "email": "antpzk7@gmail.com",
+      "filmId": 2
+    },
+    {
+      "email": "asd@gmail.com",
+      "filmId": 2
+    },
+    {
+      "email": "asd@gmail.com",
+      "filmId": 20
+    },
+    {
+      "email": "antpzk7@gmail.com",
+      "filmId": 3
+    },
+    {
+      "email": "antpzk7@gmail.com",
+      "filmId": 4
+    },
+    {
+      "email": "antpzk7@gmail.com",
+      "filmId": 1
+    },
+    {
+      "email": "antpzk7@gmail.com",
+      "filmId": 23
+    }
+  ]
+}

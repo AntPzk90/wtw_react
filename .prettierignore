@@ -1,0 +1,7 @@
+dist
+node_modules
+package-lock.json
+mock-server/db.json
+mock-server/static
+public
+src/styles/main.css
