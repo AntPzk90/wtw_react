@@ -11,17 +11,22 @@ import { REVIEW_MAX_LENGTH, REVIEW_MIN_LENGTH } from '@/const'
 import type { ChangeEvent, SubmitEvent } from 'react'
 import type { Review, ReviewData } from '@/types'
 
+import './AddReviewForm.css'
+
 const COMMENT_REGEXP = new RegExp(`^[\\s\\S]{${REVIEW_MIN_LENGTH},${REVIEW_MAX_LENGTH}}$`)
 
 export const AddReviewForm = () => {
   const [rating, setRating] = useState(0)
   const [comment, setComment] = useState('')
-  const [isSubmitted, setIsSubmitted] = useState(false)
 
+  const commentLength = comment.trim().length
   const isCommentValid = COMMENT_REGEXP.test(comment.trim())
   const isRatingValid = rating > 0
-  const showCommentError = isSubmitted && !isCommentValid
-  const showRatingError = isSubmitted && !isRatingValid
+
+  // Hints show up only once the user hits a problem, never on a fresh form:
+  // started typing but the text is too short, or the text is fine but no star is picked.
+  const showCommentHint = comment.length > 0 && !isCommentValid
+  const showRatingHint = isCommentValid && !isRatingValid
 
   const { id } = useParams()
   const navigate = useNavigate()
@@ -48,7 +53,6 @@ export const AddReviewForm = () => {
 
   const onSubmitForm = (evt: SubmitEvent<HTMLFormElement>) => {
     evt.preventDefault()
-    setIsSubmitted(true)
     if (!isCommentValid || !isRatingValid) return
     mutate({ comment: comment.trim(), rating })
   }
@@ -59,6 +63,9 @@ export const AddReviewForm = () => {
         <RatingStars value={rating} onRatingChange={onRatingChange} />
 
         <div className="add-review__text">
+          <label className="visually-hidden" htmlFor="review-text">
+            Review text
+          </label>
           <textarea
             id="review-text"
             className="add-review__textarea"
@@ -69,13 +76,22 @@ export const AddReviewForm = () => {
             onChange={onCommentFieldTyping}
           ></textarea>
           <div className="add-review__submit">
-            {showRatingError && <p>Please choose a rating</p>}
-            {showCommentError && (
-              <p>
-                Review must be {REVIEW_MIN_LENGTH}–{REVIEW_MAX_LENGTH} characters
-              </p>
-            )}
-            <button disabled={isPending} className="add-review__btn" type="submit">
+            <div className="add-review__info" aria-live="polite">
+              <span className="add-review__counter">
+                {commentLength} / {REVIEW_MAX_LENGTH}
+              </span>
+              {showCommentHint && (
+                <p className="add-review__hint">
+                  Review must be {REVIEW_MIN_LENGTH}–{REVIEW_MAX_LENGTH} characters
+                </p>
+              )}
+              {showRatingHint && <p className="add-review__hint">Please choose a rating</p>}
+            </div>
+            <button
+              disabled={isPending || !isCommentValid || !isRatingValid}
+              className="add-review__btn"
+              type="submit"
+            >
               Send
             </button>
           </div>

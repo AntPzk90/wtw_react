@@ -1,0 +1,23 @@
+/* main.css is loaded after component styles, so the parent block raises specificity */
+.add-review .add-review__submit {
+  justify-content: space-between;
+  align-items: center;
+  gap: 16px;
+}
+
+.add-review__info {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  font-size: 13px;
+  line-height: 18px;
+}
+
+.add-review__counter {
+  color: #866866;
+}
+
+.add-review__hint {
+  margin: 0;
+  color: #a8323e;
+}

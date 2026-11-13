@@ -1297,12 +1297,6 @@ main {
 .rating__input {
   display: none;
 }
-.rating__input:checked ~ .rating__label::after {
-  color: rgba(56, 44, 42, 0.36);
-}
-.rating__input:checked + .rating__label::after {
-  color: rgba(56, 44, 42, 0.7);
-}
 
 .rating__label {
   font-size: 0;
@@ -1322,6 +1316,15 @@ main {
   color: rgba(56, 44, 42, 0.7);
   -webkit-transition: color 0.2s;
   transition: color 0.2s;
+}
+
+.rating__label::after {
+  color: rgba(56, 44, 42, 0.36); 
+}
+
+.rating__input:checked + .rating__label::after,
+.rating__label:has(~ .rating__input:checked)::after {
+  color: rgba(56, 44, 42, 0.7);
 }
 
 .review {
